@@ -25,5 +25,7 @@ body{
     font-size: 10px;
     margin-left: 20px;
     padding: 10px;
-    border:2px blue gray;
+    border:2px solid gray;
+    width:30%;
+    background: skyblue;
 }
