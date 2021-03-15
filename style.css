@@ -27,4 +27,7 @@ body{
     border:2px solid gray;
     width:30%;
     background: skyblue;
+    border-radius: 5px;
+    text-decoration-color: blue;
+    text-align: center;
 }
